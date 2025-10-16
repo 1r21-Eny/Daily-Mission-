@@ -1,0 +1,9 @@
+🧭 Day 1 — “String Smith”
+
+Write a program that takes a sentence from the user and:
+
+Counts how many vowels, consonants, digits, and spaces it contains.
+
+Prints a clean summary table of those counts.
+
+Bonus: Detect whether the sentence is a pangram (uses every letter at least once).
