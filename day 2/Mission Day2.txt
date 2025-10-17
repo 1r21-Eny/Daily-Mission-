@@ -1,0 +1,22 @@
+🧭 Day 2 — “Cipher Crafter”
+
+Mission:
+Create a Caesar Cipher encoder and decoder.
+
+Your program must:
+
+Ask the user for a message and a shift number (1–25).
+
+Encode the message by shifting each letter forward in the alphabet (wrap around after Z).
+
+Ignore case when encoding, but preserve whether letters were uppercase or lowercase.
+
+Keep spaces, punctuation, and digits unchanged.
+
+Offer to decode the message back to its original form using the same shift.
+
+Bonus challenge:
+
+Detect invalid input (like non-integer shifts).
+
+Allow the user to input either “encode” or “decode” and do the right thing automatically.
