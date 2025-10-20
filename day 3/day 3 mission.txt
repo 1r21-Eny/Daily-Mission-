@@ -1,0 +1,16 @@
+🧮 Option 2: Simple Calculator with Memory
+Make a text-based calculator that can:
+
+Add, subtract, multiply, divide.
+
+Save the last answer as a variable (e.g. ans) you can reuse in the next calculation.
+
+Example:
+
+> 5 + 5  
+10  
+> ans * 3  
+30
+
+
+Bonus: Add error handling for invalid input or division by zero.
