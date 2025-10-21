@@ -1,0 +1,30 @@
+🧠 Daily Challenge: “Odd One Out”
+
+Goal: Build a small program that filters words by a hidden rule.
+
+🧩 Task:
+
+Ask the user to enter a list of words (separated by spaces).
+
+Then, remove and print only the words that meet a hidden rule:
+
+The rule: The word must have an odd number of vowels.
+
+Output both lists —
+
+✅ “Words with an odd number of vowels”
+
+🚫 “Words with an even number of vowels”
+
+Example:
+Enter words: apple pear kiwi banana orange
+✅ Odd vowels: ['apple', 'banana']
+🚫 Even vowels: ['pear', 'kiwi', 'orange']
+
+🧩 Bonus (if you finish early):
+
+Ignore capitalisation (so “Apple” = “apple”).
+
+Add a mode where the user can type a custom rule (like “length > 4”).
+
+Try writing a one-line version using list comprehensions.
