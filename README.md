@@ -1,5 +1,6 @@
 
-Daily Programming Challenges
+
+## Daily Programming Challenges
 
 Getting daily programming challenges from ChatGPT.
 
